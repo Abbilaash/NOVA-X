@@ -1,1 +1,1 @@
-# NOVA-X - ### Next-gen Optimized Virtual Assistant for eXploration 
+# NOVA-X - Next-gen Optimized Virtual Assistant for eXploration 
